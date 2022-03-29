@@ -11,7 +11,7 @@
 <body>
 <h1 style="color:Orange; font-size:40px;font-family:Arial;"><center> <b>GOD MOMENTS GALLERY<center><b></h1>
 <a href="Kaguya.html"><center><img src="https://i.pinimg.com/564x/69/78/b2/6978b2a6ccaf2fb60a359208044ac394.jpg" alt="file:///C:/Users/Eugene/Documents/Naruto%20Web/Datebayo.html" style="width:200px;height:200px;"><center></a>
-
+<!--akdjh-->
 
 <h1 style="color:Blue; font-size:40px;font-family:Arial;"><center> <b>SAD MODE GALLERY<center><b></h1>
 <a href="Sasuke.html"><center><img src="https://i.pinimg.com/564x/82/09/d5/8209d5f70849c31c231f1b6d52ffbe4d.jpg" alt="HTML tutorial" style="width:200px;height:200px;"><center></a>
